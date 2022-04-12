@@ -1,0 +1,10 @@
+tools/bin/
+tools/builtInVMCode/
+tools/
+tools/*.bat
+tools/*.sh
+
+projects/**/*.cmp
+projects/**/*.out
+projects/**/*.tst
+
